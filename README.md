@@ -18,7 +18,9 @@ This app showcases clean architecture principles, domain-driven design, and real
 -  Dependency Injection using `get_it`
 
 ## 📸 Screenshots
+![assets_task_01jymszgc7fvh87pvd7me9c91y_1750897608_img_0](https://github.com/user-attachments/assets/49a7e546-8213-4731-b981-170d605111d8)
 
+![assets_task_01jyms706kfcw8zefxy3d0fvx9_1750896836_img_1](https://github.com/user-attachments/assets/ce861675-1570-4d31-a93b-1a301edcfe0e)
 
 
 
