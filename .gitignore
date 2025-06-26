@@ -40,6 +40,7 @@ app.*.symbols
 app.*.map.json
 
 # App secrets
+#api keys
 lib/core/network/end_points.dart
 
 # Android Studio will place build artifacts here
